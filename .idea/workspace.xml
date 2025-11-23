@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 9th 2025, All Files (Keywords ,Variables and Identifiers) Updated.">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab016_Literals_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab017_MultiCommentEx1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab018_MultiCommentEx2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab019_DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab020_BuiltInFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab021_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab022_UserInput_Sum_Of_TwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab024_String_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab025_String_Conversion_Ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab026_Character_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab027_EscapeSeq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab028_StringDouble_StringSingle_Quotes.py" afterDir="false" />
+    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)">
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab029_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab030_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,57 +79,15 @@
     "Python.Lab026_Character_Literals.executor": "Run",
     "Python.Lab027_EscapeSeq.executor": "Run",
     "Python.Lab028_StringDouble_StringSingle_Quotes.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
     "Python.task001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab027_EscapeSeq">
-    <configuration name="Lab012_Multiple_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_02_Keywords_Identifiers_Variables/Lab012_Multiple_Variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab025_String_Conversion_Ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variable" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab025_String_Conversion_Ex2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab030_Task2">
     <configuration name="Lab026_Character_Literals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -207,13 +154,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab029_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab029_Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab030_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab030_Task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab030_Task2" />
+        <item itemvalue="Python.Lab029_Task1" />
         <item itemvalue="Python.Lab027_EscapeSeq" />
         <item itemvalue="Python.Lab028_StringDouble_StringSingle_Quotes" />
         <item itemvalue="Python.Lab026_Character_Literals" />
-        <item itemvalue="Python.Lab025_String_Conversion_Ex2" />
-        <item itemvalue="Python.Lab012_Multiple_Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -280,13 +271,30 @@
       <option name="project" value="LOCAL" />
       <updated>1763306222133</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)">
+      <option name="closed" value="true" />
+      <created>1763892946355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763892946355</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)">
+      <option name="closed" value="true" />
+      <created>1763893100370</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763893100370</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Oct 9th 2025, All Files (Keywords and Identifiers)" />
     <MESSAGE value="Oct 9th 2025, All Files (Keywords ,Variables and Identifiers) Updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct 9th 2025, All Files (Keywords ,Variables and Identifiers) Updated." />
+    <MESSAGE value="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)" />
   </component>
 </project>
