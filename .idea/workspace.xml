@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab030_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py">
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variable/Lab030_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763893100370</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py">
+      <option name="closed" value="true" />
+      <created>1763923261338</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923261338</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +301,7 @@
     <MESSAGE value="Oct 9th 2025, All Files (Keywords and Identifiers)" />
     <MESSAGE value="Oct 9th 2025, All Files (Keywords ,Variables and Identifiers) Updated." />
     <MESSAGE value="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct 11th 2025, All Files (Literals, Strings, BuiltIn Functions, User Inputs, Escape Char, String Conversion)" />
+    <MESSAGE value="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py" />
   </component>
 </project>

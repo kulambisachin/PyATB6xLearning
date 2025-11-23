@@ -8,8 +8,6 @@ Task for the Today
 # R -> 1
 
 """
-from math import remainder
-
 # Step 1: Building a logic
 
 # i/p: num1, num2
