@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 14th 2025, Lab031, Lab032 Commits.">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logical_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab035_Operators_Ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab036_Operators_Compare_Ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab037_Operators_Logical_Ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab038_Operators_Ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab039_Operators_Ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Increment_Decrement(Not allowed)Operators_Ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Ternary_Operator_Ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Ternary_Operator_Ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Membership_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Identity_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Math_Builtin_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab034_Operators_Ex2.py" afterDir="false" />
+    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Oct 14th 2025, Lab042_Math_Builtin_Operator.py">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/task001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +98,8 @@
     "Python.Lab042_Math_Builtin_Operator.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
+    "Python.Task_HW_001.executor": "Run",
+    "Python.Task_HW_002.executor": "Run",
     "Python.lab034_Operators_Ex2.executor": "Run",
     "Python.task001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,7 +107,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab042_Math_Builtin_Operator">
+  <component name="RunManager" selected="Python.Task_HW_002">
     <configuration name="Lab040_Ternary_Operator_Ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -134,50 +122,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab040_Ternary_Operator_Ex3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab041_Membership_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab041_Membership_Operators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab042_Identity_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Identity_Operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,13 +174,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task_HW_001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_HW_002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_HW_002" />
+        <item itemvalue="Python.Task_HW_001" />
         <item itemvalue="Python.Lab042_Math_Builtin_Operator" />
         <item itemvalue="Python.Task003" />
         <item itemvalue="Python.Lab040_Ternary_Operator_Ex3" />
-        <item itemvalue="Python.Lab042_Identity_Operator" />
-        <item itemvalue="Python.Lab041_Membership_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763928070169</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Oct 14th 2025, Lab042_Math_Builtin_Operator.py">
+      <option name="closed" value="true" />
+      <created>1764253068729</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764253068729</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,6 +350,7 @@
     <MESSAGE value="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py" />
     <MESSAGE value="Oct 14th 2025, Lab029_Task1.py Lab030_Task2.py Updated." />
     <MESSAGE value="Oct 14th 2025, Lab031, Lab032 Commits." />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct 14th 2025, Lab031, Lab032 Commits." />
+    <MESSAGE value="Oct 14th 2025, Lab042_Math_Builtin_Operator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 14th 2025, Lab042_Math_Builtin_Operator.py" />
   </component>
 </project>
