@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="HomeWork Task 001, Task 002.py (14-Oct-25)">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab043_IF_Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab043_IF_ConditionsEdgeCaseHandling.py" afterDir="false" />
+    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Lab043_IF_ConditionsEdgeCaseHandling.py of Oct 16 2025 Program">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab044_ElseIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab044_Nested_IF_ElseIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab045_IFElseCondition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab046_IF_Else_Eif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab047_Grade_Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +101,11 @@
     "Python.Lab042_Math_Builtin_Operator.executor": "Run",
     "Python.Lab043_IF_Conditions.executor": "Run",
     "Python.Lab043_IF_ConditionsEdgeCaseHandling.executor": "Run",
+    "Python.Lab044_ElseIF.executor": "Run",
+    "Python.Lab044_Nested_IF_ElseIF.executor": "Run",
+    "Python.Lab045_IFElseCondition.executor": "Run",
+    "Python.Lab046_IF_Else_Eif.executor": "Run",
+    "Python.Lab047_Grade_Calculator.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task_HW_001.executor": "Run",
@@ -109,30 +117,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab043_IF_ConditionsEdgeCaseHandling">
-    <configuration name="Lab042_Math_Builtin_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab042_Math_Builtin_Operator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab043_IF_Conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab047_Grade_Calculator">
+    <configuration name="Lab044_ElseIF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab043_IF_Conditions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab044_ElseIF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab043_IF_ConditionsEdgeCaseHandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab044_Nested_IF_ElseIF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab043_IF_ConditionsEdgeCaseHandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab044_Nested_IF_ElseIF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab045_IFElseCondition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab045_IFElseCondition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab046_IF_Else_Eif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +193,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab046_IF_Else_Eif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab047_Grade_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab047_Grade_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab043_IF_ConditionsEdgeCaseHandling" />
-        <item itemvalue="Python.Lab043_IF_Conditions" />
-        <item itemvalue="Python.Task_HW_002" />
-        <item itemvalue="Python.Task_HW_001" />
-        <item itemvalue="Python.Lab042_Math_Builtin_Operator" />
+        <item itemvalue="Python.Lab047_Grade_Calculator" />
+        <item itemvalue="Python.Lab046_IF_Else_Eif" />
+        <item itemvalue="Python.Lab045_IFElseCondition" />
+        <item itemvalue="Python.Lab044_ElseIF" />
+        <item itemvalue="Python.Lab044_Nested_IF_ElseIF" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764259344682</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lab043_IF_ConditionsEdgeCaseHandling.py of Oct 16 2025 Program">
+      <option name="closed" value="true" />
+      <created>1764331816329</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764331816329</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,6 +378,7 @@
     <MESSAGE value="Oct 14th 2025, Lab031, Lab032 Commits." />
     <MESSAGE value="Oct 14th 2025, Lab042_Math_Builtin_Operator.py" />
     <MESSAGE value="HomeWork Task 001, Task 002.py (14-Oct-25)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork Task 001, Task 002.py (14-Oct-25)" />
+    <MESSAGE value="Lab043_IF_ConditionsEdgeCaseHandling.py of Oct 16 2025 Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab043_IF_ConditionsEdgeCaseHandling.py of Oct 16 2025 Program" />
   </component>
 </project>
