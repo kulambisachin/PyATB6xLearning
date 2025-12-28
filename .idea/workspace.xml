@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="Till Lab047_Grade_Calculator.py Changes are pushed (16-Oc-25)">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_006.py" afterDir="false" />
+    <list default="true" id="428789e2-4a6e-4d38-b773-c38467fc9099" name="Changes" comment="All Home work tasks of (16-Oct-25) commits is pushed.">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)/LabSwitch_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)/LabSwitch_002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab049_ForLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab_050_ForLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab_051_IQ_ForLoops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +107,10 @@
     "Python.Lab045_IFElseCondition.executor": "Run",
     "Python.Lab046_IF_Else_Eif.executor": "Run",
     "Python.Lab047_Grade_Calculator.executor": "Run",
+    "Python.Lab048_Loops.executor": "Run",
+    "Python.Lab049_ForLoops.executor": "Run",
+    "Python.LabSwitch_001.executor": "Run",
+    "Python.LabSwitch_002.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task_HW_001.executor": "Run",
@@ -120,8 +127,8 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task_HW_006">
-    <configuration name="Lab047_Grade_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab_051_IQ_ForLoops">
+    <configuration name="Lab048_Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loop/Lab047_Grade_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab049_ForLoops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab049_ForLoops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabSwitch_001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)/LabSwitch_001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabSwitch_002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_06_Match-Case(switchNotExistsInPython)/LabSwitch_002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_HW_006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_051_IQ_ForLoops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/HomeWork_Tasks/Task_HW_006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab_051_IQ_ForLoops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_HW_006" />
-        <item itemvalue="Python.Task_HW_005" />
-        <item itemvalue="Python.Task_HW_004" />
-        <item itemvalue="Python.Task_HW_003" />
-        <item itemvalue="Python.Lab047_Grade_Calculator" />
+        <item itemvalue="Python.Lab_051_IQ_ForLoops" />
+        <item itemvalue="Python.Lab049_ForLoops" />
+        <item itemvalue="Python.Lab048_Loops" />
+        <item itemvalue="Python.LabSwitch_002" />
+        <item itemvalue="Python.LabSwitch_001" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764443288797</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="All Home work tasks of (16-Oct-25) commits is pushed.">
+      <option name="closed" value="true" />
+      <created>1764698738390</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764698738390</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -391,6 +406,7 @@
     <MESSAGE value="HomeWork Task 001, Task 002.py (14-Oct-25)" />
     <MESSAGE value="Lab043_IF_ConditionsEdgeCaseHandling.py of Oct 16 2025 Program" />
     <MESSAGE value="Till Lab047_Grade_Calculator.py Changes are pushed (16-Oc-25)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Till Lab047_Grade_Calculator.py Changes are pushed (16-Oc-25)" />
+    <MESSAGE value="All Home work tasks of (16-Oct-25) commits is pushed." />
+    <option name="LAST_COMMIT_MESSAGE" value="All Home work tasks of (16-Oct-25) commits is pushed." />
   </component>
 </project>
